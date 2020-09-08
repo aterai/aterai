@@ -1,4 +1,8 @@
 ### Hi there 👋
+![aterai's github stats](https://github-readme-stats.vercel.app/api?username=aterai&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aterai&theme=radical)
+
+These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **aterai/aterai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
